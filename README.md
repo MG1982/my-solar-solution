@@ -22,7 +22,7 @@
 - Folder structure that meets MVC Paradigm.
 - GET and POST routes for retrieving and adding new data.
 - MySQL Database with stored procedure.
-- Deployed to Heroku <a href="https://lit-thicket-63722.herokuapp.com/" target="_blank">**My Solar Solution**</a>.
+- Deployed to Heroku <a href="https://my-solar-solution.herokuapp.com/" target="_blank">**My Solar Solution**</a>.
 - No Exposed sensitive keys.
 
 ## Team
