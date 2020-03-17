@@ -1,5 +1,3 @@
-<a href="https://github.com/MG1982/my-solar-solution/blob/master/public/images/mySolarSolution.jpg?raw=true"><img src="https://github.com/MG1982/my-solar-solution/blob/master/public/images/mySolarSolution.jpg?raw=true" title="MySolarSolution" alt="MySolarSolution"></a>
-
 # My Solar Solution
 
 > ### Tell us your energy needs
@@ -14,6 +12,12 @@
 >
 > _Once your finished comparing solar systems you will have a better understanding and be ready to begin requesting quotes from installers._
 
+## Click <a href="https://my-solar-solution.herokuapp.com/" target="_blank" />here</a> for the live app.
+
+This is the home page:
+
+<a href="https://github.com/MG1982/my-solar-solution/blob/master/public/images/mySolarSolution.jpg?raw=true"><img src="https://github.com/MG1982/my-solar-solution/blob/master/public/images/mySolarSolution.jpg?raw=true" title="MySolarSolution" alt="MySolarSolution"></a>
+
 ## Build Features
 
 - Bootstrap framework.
@@ -22,7 +26,6 @@
 - Folder structure that meets MVC Paradigm.
 - GET and POST routes for retrieving and adding new data.
 - MySQL Database with stored procedure.
-- Deployed to Heroku <a href="https://my-solar-solution.herokuapp.com/" target="_blank">**My Solar Solution**</a>.
 - No Exposed sensitive keys.
 
 ## Team
